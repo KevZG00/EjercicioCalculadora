@@ -1,0 +1,12 @@
+header {
+  text-align: center;
+}
+h1 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 2px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+   background-image: linear-gradient(to right,rgb(1, 7, 15),rgb(3, 34, 62), rgb(1, 7, 15)); 
+  color: aliceblue;
+  text-shadow: 5px;
+}
